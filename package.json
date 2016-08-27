@@ -1,7 +1,7 @@
 {
     "name": "angular2-quickstart",
     "version": "1.0.0",
-    "description": "First angular 2 application.",
+    "description": "It is an Angular2 application using vanilla javascript.",
     "main": "index.js",
     "scripts": {
         "start": "npm run lite",
